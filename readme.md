@@ -12,7 +12,7 @@ Finally, I am experienced in blockchain development, Ethereum smart contracts, i
 
 Thank you for taking the time to read about my capabilities. If you're interested in collaborating with me on a software development project, please feel free to reach out. I look forward to hearing from you!
 
-Get in touch: andreslee.com or at hola at andreslee.com
+Get in touch: hola at andreslee.com
 
 <!---
 andresleecom/andresleecom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
