@@ -1,20 +1,41 @@
-Welcome to my Github profile! I am a full-stack developer and team leader with a wealth of experience in designing, building, deploying, and maintaining e-commerce applications. I specialize in front-end and back-end development, with extensive knowledge of modern programming languages such as JavaScript, TypeScript, PHP, GO, Python.
+  # Hi, I'm Andres
 
-On the front-end side, I am an expert in React, React Native development, and I am skilled in building responsive web applications using custom themes and popular CSS frameworks such as Bootstrap, Materialize, and Tailwind CSS. I am also experienced in developing WordPress websites, creating custom plugins, and working with the popular DIVI theme. Additionally, I have developed Shopify stores and worked with other e-commerce platforms such as Prestashop, Shopify, and BigCommerce.
+  I build production-grade automation tools across Cloud, AI agents, and connected devices.
 
-When it comes to back-end development, I have extensive experience in PHP, Go and Python, including working with several frameworks. I am also skilled in Node.js. I am familiar with API design, development and integrations, webhooks development, and cloud platforms such as Google Cloud, AWS, Linode, Cloudflare, and Heroku. I have designed databases and developed Saas-based web applications, and I am skilled in inventory management. Strong experience in Kubernetes on Gidital Ocean and AWS.
+  ![CLI](https://img.shields.io/badge/-CLI-121011?style=flat-square&logo=gnubash&logoColor=white)
+  ![Web](https://img.shields.io/badge/-Web-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+  ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+  ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  
+  ## What I Focus On
+  - AI-enabled operational tooling
+  - Cloud architecture and security
+  - Developer-first CLI products
+  - Automation for media, devices, and workflows
 
-As a full-stack developer, I have also developed REST APIs to support IOS and Android development, and I am experienced in integrating SMS gateways such as Twilio, MessageBird, and ClickSend. Additionally, I am skilled in web scraping, automation, and Zapier, as well as SMS and email automation.
+  ## Featured Projects
+  - [sonosctl](https://github.com/andresleecom/sonosctl)
+    Open-source CLI to control Sonos + Spotify for daily real-world operations.
+  - More projects coming soon.
 
-I have extensive experience in payment gateways, including Stripe, Conekta, Authorize, Paypal, and Openpay. I am also an expert in digital marketing, with over 15 years of experience in Google Ads and 10 years of experience in Google Analytics. I am a PPC marketing strategist and am skilled in conversion rate optimization, search engine marketing, and search engine optimization. I am proficient in graphic design using Photoshop.
+  ## Current Work
+  - Improving `sonosctl` for community adoption
+  - Building reliable automations for AI-assisted operations
+  - Publishing practical open-source tools for teams
 
-Finally, I am experienced in blockchain development, Ethereum smart contracts, including working with the following API's Binance, Changelly, Bitso, Coinmarketcap and other blockchains.
+  ## Open Source
+  I’m actively open-sourcing tools I originally built to solve real operational problems.
 
-Thank you for taking the time to read about my capabilities. If you're interested in collaborating with me on a software development project, please feel free to reach out. I look forward to hearing from you!
+  If you use Sonos + Spotify in professional environments (offices, hospitality, healthcare, retail), check out **sonosctl** and share feedback.
 
-Get in touch: hola at andreslee.com
-
-<!---
-andresleecom/andresleecom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ## Let’s Connect
+  - GitHub: [@andresleecom](https://github.com/andresleecom)
