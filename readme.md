@@ -13,6 +13,7 @@
   ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
   ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
   ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+  ![OpenClaw](https://img.shields.io/badge/OpenClaw-Agent%20Automation-E63946?style=flat-square)
   
   ## What I Focus On
   - AI-enabled operational tooling
