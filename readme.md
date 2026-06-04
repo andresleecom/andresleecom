@@ -24,9 +24,12 @@
   ## Featured Projects
   - [sonosctl](https://github.com/andresleecom/sonosctl)
     Open-source CLI to control Sonos + Spotify for daily real-world operations.
+  - [claude-handoff](https://github.com/andresleecom/claude-handoff)
+    Claude Code plugin that fixes cross-session amnesia — distills each session's decisions, dead-ends, and next steps into a HANDOFF.md and re-injects it on resume.
   - More projects coming soon.
 
   ## Current Work
+  - Shipping `claude-handoff`, a Claude Code plugin for cross-session memory
   - Improving `sonosctl` for community adoption
   - Building reliable automations for AI-assisted operations
   - Publishing practical open-source tools for teams
