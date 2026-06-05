@@ -28,11 +28,14 @@
     Open-source CLI to control Sonos + Spotify for daily real-world operations.
   - [claude-handoff](https://github.com/andresleecom/claude-handoff)
     Claude Code plugin that fixes cross-session amnesia — distills each session's decisions, dead-ends, and next steps into a HANDOFF.md and re-injects it on resume.
+  - [kube-guard](https://github.com/andresleecom/kube-guard)
+    Claude Code plugin that gives an AI agent kubectl with a seatbelt — a hook that classifies every kubectl/helm command by blast radius and allow/ask/denies it (protected contexts, secret-dump blocking, audit log).
   - More projects coming soon.
 
   ## Current Work
   - Shipping `mcp-lean`, a lazy-loading MCP proxy that cuts agent context bloat
   - Shipping `claude-handoff`, a Claude Code plugin for cross-session memory
+  - Shipping `kube-guard`, Kubernetes guardrails for AI coding agents
   - Improving `sonosctl` for community adoption
   - Building reliable automations for AI-assisted operations
   - Publishing practical open-source tools for teams
