@@ -38,14 +38,6 @@
   - Building reliable automations for AI-assisted operations
   - Publishing practical open-source tools for teams
 
-  ## Open Source
-  I’m actively open-sourcing tools I originally built to solve real operational problems.
-
-  If you use Sonos + Spotify in professional environments (offices, hospitality, healthcare, retail), check out **sonosctl** and share feedback.
-
-  ## Let’s Connect
-  - GitHub: [@andresleecom](https://github.com/andresleecom)
-
 ## 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Why I'm Building CLIs for Every Business Tool My Agents Need](https://andreslee.com/blog/give-your-agent-a-cli)
