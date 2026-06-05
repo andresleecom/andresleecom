@@ -1,6 +1,6 @@
   # Hi, I'm Andres
 
- OpenClaw Strategist building production-grade automation tools across Cloud, AI agents, and connected devices.
+ LLM researcher and professional software engineer building production-grade CLIs, MCP servers, and APIs that let AI agents run real operations — safely.
 
   ![CLI](https://img.shields.io/badge/-CLI-121011?style=flat-square&logo=gnubash&logoColor=white)
   ![Web](https://img.shields.io/badge/-Web-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)
