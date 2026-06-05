@@ -15,17 +15,6 @@
   ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
   ![OpenClaw](https://img.shields.io/badge/OpenClaw-Agent%20Automation-E63946?style=flat-square)
 
-## 📝 Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Why I'm Building CLIs for Every Business Tool My Agents Need](https://andreslee.com/blog/give-your-agent-a-cli)
-- [Stop Calling Tools. Generate Code.](https://andreslee.com/blog/stop-calling-tools-generate-code)
-- [Code Is Free. Bad Code Is the Most Expensive It's Ever Been.](https://andreslee.com/blog/bad-code-is-the-most-expensive)
-- [Code Is Free. Judgment Is the Bottleneck.](https://andreslee.com/blog/code-is-free-judgment-is-the-bottleneck)
-- [Making Your Codebase AI-Agent Ready: A Practical Guide](https://andreslee.com/blog/making-your-codebase-ai-agent-ready)
-<!-- BLOG-POST-LIST:END -->
-
-> 🔗 Read more at [andreslee.com/blog](https://andreslee.com/blog)
-
   ## What I Focus On
   - AI-enabled operational tooling
   - Cloud architecture and security
@@ -58,3 +47,14 @@
 
   ## Let’s Connect
   - GitHub: [@andresleecom](https://github.com/andresleecom)
+
+## 📝 Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Why I'm Building CLIs for Every Business Tool My Agents Need](https://andreslee.com/blog/give-your-agent-a-cli)
+- [Stop Calling Tools. Generate Code.](https://andreslee.com/blog/stop-calling-tools-generate-code)
+- [Code Is Free. Bad Code Is the Most Expensive It's Ever Been.](https://andreslee.com/blog/bad-code-is-the-most-expensive)
+- [Code Is Free. Judgment Is the Bottleneck.](https://andreslee.com/blog/code-is-free-judgment-is-the-bottleneck)
+- [Making Your Codebase AI-Agent Ready: A Practical Guide](https://andreslee.com/blog/making-your-codebase-ai-agent-ready)
+<!-- BLOG-POST-LIST:END -->
+
+> 🔗 Read more at [andreslee.com/blog](https://andreslee.com/blog)
