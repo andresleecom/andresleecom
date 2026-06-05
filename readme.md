@@ -17,6 +17,7 @@
 
   ## What I Focus On
   - AI-enabled operational tooling
+  - AI safety, compliance, and security
   - Cloud architecture and security
   - Developer-first CLI products
   - Automation for media, devices, and workflows
