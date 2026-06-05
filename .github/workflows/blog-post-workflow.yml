@@ -1,0 +1,29 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Allows manual runs from the Actions tab
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from andreslee.com/blog
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://andreslee.com/rss.xml"
+          readme_path: "./readme.md"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "chore: update latest blog posts"
