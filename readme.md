@@ -22,15 +22,11 @@
   - Automation for media, devices, and workflows
 
   ## Featured Projects
-  - [mcp-lean](https://github.com/andresleecom/mcp-lean)
-    Lazy-loading MCP proxy that shrinks an AI agent's startup context — fronts all your MCP servers with a 5-tool facade so tool schemas load only when they're actually needed.
-  - [sonosctl](https://github.com/andresleecom/sonosctl)
-    Open-source CLI to control Sonos + Spotify for daily real-world operations.
-  - [claude-handoff](https://github.com/andresleecom/claude-handoff)
-    Claude Code plugin that fixes cross-session amnesia — distills each session's decisions, dead-ends, and next steps into a HANDOFF.md and re-injects it on resume.
-  - [kube-guard](https://github.com/andresleecom/kube-guard)
-    Claude Code plugin that gives an AI agent kubectl with a seatbelt — a hook that classifies every kubectl/helm command by blast radius and allow/ask/denies it (protected contexts, secret-dump blocking, audit log).
-  - More projects coming soon.
+  - 🔌 [mcp-lean](https://github.com/andresleecom/mcp-lean) — Lazy-loading MCP proxy that shrinks agent context
+  - 🔊 [sonosctl](https://github.com/andresleecom/sonosctl) — CLI to control Sonos and Spotify
+  - 🤝 [claude-handoff](https://github.com/andresleecom/claude-handoff) — Claude Code plugin for cross-session memory
+  - 🛡️ [kube-guard](https://github.com/andresleecom/kube-guard) — Kubectl guardrails for AI coding agents
+  - 🚧 More projects coming soon.
 
   ## Current Work
   - Shipping `mcp-lean`, a lazy-loading MCP proxy that cuts agent context bloat
