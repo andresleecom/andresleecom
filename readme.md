@@ -50,9 +50,9 @@
 
 ## 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Building CLIs for Every Business Tool My Agents Need](https://andreslee.com/blog/give-your-agent-a-cli)
+- [Why I'm Building CLIs for Every Business Tool My Agents Need](https://andreslee.com/blog/give-your-agent-a-cli)
 - [Stop Calling Tools. Generate Code.](https://andreslee.com/blog/stop-calling-tools-generate-code)
-- [Code Is Free. Bad Code Is the Most Expensive It&#39;s Ever Been.](https://andreslee.com/blog/bad-code-is-the-most-expensive)
+- [Code Is Free. Bad Code Is the Most Expensive It's Ever Been.](https://andreslee.com/blog/bad-code-is-the-most-expensive)
 - [Code Is Free. Judgment Is the Bottleneck.](https://andreslee.com/blog/code-is-free-judgment-is-the-bottleneck)
 - [Making Your Codebase AI-Agent Ready: A Practical Guide](https://andreslee.com/blog/making-your-codebase-ai-agent-ready)
 <!-- BLOG-POST-LIST:END -->
