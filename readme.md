@@ -20,6 +20,7 @@
   - AI safety, compliance, and security
   - Cloud architecture and security
   - Developer-first CLI products
+  - Building MCP servers, CLIs, and APIs
   - Automation for media, devices, and workflows
 
   ## Featured Projects
