@@ -24,6 +24,7 @@
   - Automation for media, devices, and workflows
 
   ## Featured Projects
+  - 🎙️ [speech](https://github.com/andresleecom/speech) — Local Windows dictation in 99 languages: press a hotkey, speak, and the text lands at your cursor in any app
   - 🗺️ [map](https://github.com/andresleecom/map) — Massive Action Plan: Claude plans and verifies, codex executes — token-efficient agent delegation
   - 🔌 [mcp-lean](https://github.com/andresleecom/mcp-lean) — Lazy-loading MCP proxy that shrinks agent context
   - 🔊 [sonosctl](https://github.com/andresleecom/sonosctl) — CLI to control Sonos and Spotify
