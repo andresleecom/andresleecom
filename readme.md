@@ -24,7 +24,7 @@
   - Automation for media, devices, and workflows
 
   ## Featured Projects
-- 🎙️ [speech](https://github.com/andresleecom/speech) — Local dictation in 100 languages for Windows, macOS, and Linux
+  - 🎙️ [speech](https://github.com/andresleecom/speech) — Local dictation in 100 languages for Windows, macOS, and Linux
   - 🗣️ [brauo](https://github.com/andresleecom/brauo) — Open-source Chrome extension that reads any web page aloud with natural voices
   - 🗺️ [map](https://github.com/andresleecom/map) — Massive Action Plan: Claude plans and verifies, codex executes — token-efficient agent delegation
   - 🔌 [mcp-lean](https://github.com/andresleecom/mcp-lean) — Lazy-loading MCP proxy that shrinks agent context
