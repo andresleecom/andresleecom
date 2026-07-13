@@ -34,7 +34,7 @@
   - 🚧 More projects coming soon.
 
   ## Current Work
-- Shipping `speech`, local Whisper dictation with downloadable apps for Windows, macOS, and Linux
+  - Shipping `speech`, local Whisper dictation with downloadable apps for Windows, macOS, and Linux
   - Shipping `brauo`, an open-source Chrome extension that reads any web page aloud with natural voices
   - Shipping `mcp-lean`, a lazy-loading MCP proxy that cuts agent context bloat
   - Shipping `claude-handoff`, a Claude Code plugin for cross-session memory
