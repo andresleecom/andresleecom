@@ -27,7 +27,7 @@
   ## Featured Projects
   - 🎙️ [speech](https://github.com/andresleecom/speech) — Local dictation in 100 languages for Windows, macOS, and Linux
   - 🗣️ [brauo](https://github.com/andresleecom/brauo) — Open-source Chrome extension that reads any web page aloud with natural voices
-  - 🗺️ [map](https://github.com/andresleecom/map) — Massive Action Plan: Claude plans and verifies, codex executes — token-efficient agent delegation
+  - 📋 [map](https://github.com/andresleecom/map) — Massive Action Plan: Claude plans and verifies, codex executes — token-efficient agent delegation
   - 🔌 [mcp-lean](https://github.com/andresleecom/mcp-lean) — Lazy-loading MCP proxy that shrinks agent context
   - 🔊 [sonosctl](https://github.com/andresleecom/sonosctl) — CLI to control Sonos and Spotify
   - 🤝 [claude-handoff](https://github.com/andresleecom/claude-handoff) — Claude Code plugin for cross-session memory
