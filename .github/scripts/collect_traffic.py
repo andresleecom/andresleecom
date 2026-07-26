@@ -22,6 +22,7 @@ REPOS = [
     "brauo",
     "sonosctl",
     "x-cli",
+    "xctl",
 ]
 OUT_DIR = "traffic"
 
