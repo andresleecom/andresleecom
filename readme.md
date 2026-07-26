@@ -30,6 +30,7 @@
   - 🎯 [map](https://github.com/andresleecom/map) — Massive Action Plan: Claude plans and verifies, codex executes — token-efficient agent delegation
   - 🔌 [mcp-lean](https://github.com/andresleecom/mcp-lean) — Lazy-loading MCP proxy that shrinks agent context ![npm downloads](https://img.shields.io/npm/dt/mcp-lean?style=flat-square&label=npm%20downloads)
   - 🔊 [sonosctl](https://github.com/andresleecom/sonosctl) — CLI to control Sonos and Spotify
+  - 🐦 [x-cli](https://github.com/andresleecom/x-cli) - Post, search, like, and bookmark on X from your terminal ![Clones](https://img.shields.io/badge/dynamic/json?style=flat-square&label=clones&query=%24.total_clones&url=https%3A%2F%2Fraw.githubusercontent.com%2Fandresleecom%2Fandresleecom%2Fmain%2Ftraffic%2Fx-cli.json)
   - 🤝 [claude-handoff](https://github.com/andresleecom/claude-handoff) — Claude Code plugin for cross-session memory
   - 🛡️ [kube-guard](https://github.com/andresleecom/kube-guard) — Kubectl guardrails for AI coding agents
   - 🚧 More projects coming soon.
