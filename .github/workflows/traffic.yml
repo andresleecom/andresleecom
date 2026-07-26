@@ -1,0 +1,31 @@
+name: Traffic stats
+
+on:
+  schedule:
+    # Runs every Monday at 06:17 UTC (GitHub only keeps 14 days of traffic data)
+    - cron: "17 6 * * 1"
+  workflow_dispatch: # Allows manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    name: Collect and store traffic stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Collect traffic stats
+        run: python3 .github/scripts/collect_traffic.py
+        env:
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "Andres Lee"
+          git config user.email "hola@andreslee.com"
+          git add traffic
+          git diff --cached --quiet || git commit -m "Update traffic stats"
+          git push
