@@ -25,10 +25,10 @@
   - Automation for media, devices, and workflows
 
   ## Featured Projects
-  - 🎙️ [speech](https://github.com/andresleecom/speech) — Local dictation in 100 languages for Windows, macOS, and Linux
-  - 🗣️ [brauo](https://github.com/andresleecom/brauo) — Open-source Chrome extension that reads any web page aloud with natural voices
+  - 🎙️ [speech](https://github.com/andresleecom/speech) — Local dictation in 100 languages for Windows, macOS, and Linux ![Downloads](https://img.shields.io/github/downloads/andresleecom/speech/total?style=flat-square&label=downloads)
+  - 🗣️ [brauo](https://github.com/andresleecom/brauo) — Open-source Chrome extension that reads any web page aloud with natural voices ![Downloads](https://img.shields.io/github/downloads/andresleecom/brauo/total?style=flat-square&label=downloads)
   - 🎯 [map](https://github.com/andresleecom/map) — Massive Action Plan: Claude plans and verifies, codex executes — token-efficient agent delegation
-  - 🔌 [mcp-lean](https://github.com/andresleecom/mcp-lean) — Lazy-loading MCP proxy that shrinks agent context
+  - 🔌 [mcp-lean](https://github.com/andresleecom/mcp-lean) — Lazy-loading MCP proxy that shrinks agent context ![npm downloads](https://img.shields.io/npm/dt/mcp-lean?style=flat-square&label=npm%20downloads)
   - 🔊 [sonosctl](https://github.com/andresleecom/sonosctl) — CLI to control Sonos and Spotify
   - 🤝 [claude-handoff](https://github.com/andresleecom/claude-handoff) — Claude Code plugin for cross-session memory
   - 🛡️ [kube-guard](https://github.com/andresleecom/kube-guard) — Kubectl guardrails for AI coding agents
