@@ -1,9 +1,9 @@
 {
-  "total_clones": 5,
-  "total_clone_uniques": 5,
+  "total_clones": 15,
+  "total_clone_uniques": 13,
   "total_views": 2,
   "total_view_uniques": 2,
-  "updated": "2026-07-27",
+  "updated": "2026-08-03",
   "history": {
     "clones": [
       {
@@ -80,6 +80,41 @@
         "timestamp": "2026-07-26T00:00:00Z",
         "count": 3,
         "uniques": 3
+      },
+      {
+        "timestamp": "2026-07-27T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-28T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-29T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-30T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-31T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-02T00:00:00Z",
+        "count": 10,
+        "uniques": 8
       }
     ],
     "views": [
@@ -155,6 +190,41 @@
       },
       {
         "timestamp": "2026-07-26T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-27T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-28T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-29T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-30T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-07-31T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-01T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-02T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
