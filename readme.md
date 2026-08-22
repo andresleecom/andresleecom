@@ -46,11 +46,11 @@
 
 ## 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tu agente no sabe simplificar](https://andreslee.com/blog/tu-agente-no-sabe-simplificar)
 - [Audit What You Hand Your Agent](https://andreslee.com/blog/audit-what-you-hand-your-agent)
 - [Audita lo que le das a tu agente](https://andreslee.com/blog/audita-lo-que-le-das-a-tu-agente)
 - [Technical Debt Stopped Warning Us](https://andreslee.com/blog/technical-debt-stopped-warning-us)
 - [La deuda técnica dejó de avisar](https://andreslee.com/blog/la-deuda-tecnica-dejo-de-avisar)
-- [Why I'm Building CLIs for Every Business Tool My Agents Need](https://andreslee.com/blog/give-your-agent-a-cli)
 <!-- BLOG-POST-LIST:END -->
 
 > 🔗 Read more at [andreslee.com/blog](https://andreslee.com/blog)
