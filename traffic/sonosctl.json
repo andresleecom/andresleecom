@@ -1,9 +1,9 @@
 {
-  "total_clones": 19,
-  "total_clone_uniques": 17,
-  "total_views": 2,
-  "total_view_uniques": 2,
-  "updated": "2026-08-24",
+  "total_clones": 20,
+  "total_clone_uniques": 18,
+  "total_views": 9,
+  "total_view_uniques": 3,
+  "updated": "2026-08-31",
   "history": {
     "clones": [
       {
@@ -213,6 +213,46 @@
       },
       {
         "timestamp": "2026-08-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-23T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-24T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-26T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-27T00:00:00Z",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-08-28T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-29T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-30T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
@@ -425,6 +465,46 @@
       },
       {
         "timestamp": "2026-08-22T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-23T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-24T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-25T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-26T00:00:00Z",
+        "count": 7,
+        "uniques": 1
+      },
+      {
+        "timestamp": "2026-08-27T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-28T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-29T00:00:00Z",
+        "count": 0,
+        "uniques": 0
+      },
+      {
+        "timestamp": "2026-08-30T00:00:00Z",
         "count": 0,
         "uniques": 0
       }
