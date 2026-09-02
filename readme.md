@@ -46,11 +46,11 @@
 
 ## 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [La inteligencia se renta, el entorno se queda en casa](https://andreslee.com/blog/la-inteligencia-se-renta-el-entorno-se-queda-en-casa)
 - [Tu agente no sabe simplificar](https://andreslee.com/blog/tu-agente-no-sabe-simplificar)
 - [Audit What You Hand Your Agent](https://andreslee.com/blog/audit-what-you-hand-your-agent)
 - [Audita lo que le das a tu agente](https://andreslee.com/blog/audita-lo-que-le-das-a-tu-agente)
 - [Technical Debt Stopped Warning Us](https://andreslee.com/blog/technical-debt-stopped-warning-us)
-- [La deuda técnica dejó de avisar](https://andreslee.com/blog/la-deuda-tecnica-dejo-de-avisar)
 <!-- BLOG-POST-LIST:END -->
 
 > 🔗 Read more at [andreslee.com/blog](https://andreslee.com/blog)
