@@ -26,7 +26,6 @@
 
   ## Featured Projects
   - 🎙️ [speech](https://github.com/andresleecom/speech) — Local dictation in 100 languages for Windows, macOS, and Linux ![Downloads](https://img.shields.io/github/downloads/andresleecom/speech/total?style=flat-square&label=downloads)
-  - 🗣️ [brauo](https://github.com/andresleecom/brauo) — Open-source Chrome extension that reads any web page aloud with natural voices ![Downloads](https://img.shields.io/github/downloads/andresleecom/brauo/total?style=flat-square&label=downloads)
   - 🎯 [map](https://github.com/andresleecom/map) — Massive Action Plan: Claude plans and verifies, codex executes — token-efficient agent delegation
   - 🔌 [mcp-lean](https://github.com/andresleecom/mcp-lean) — Lazy-loading MCP proxy that shrinks agent context ![npm downloads](https://img.shields.io/npm/dt/mcp-lean?style=flat-square&label=npm%20downloads)
   - 🔊 [sonosctl](https://github.com/andresleecom/sonosctl) — CLI to control Sonos and Spotify
@@ -36,7 +35,6 @@
 
   ## Current Work
   - Shipping `speech`, local Whisper dictation with downloadable apps for Windows, macOS, and Linux
-  - Shipping `brauo`, an open-source Chrome extension that reads any web page aloud with natural voices
   - Shipping `mcp-lean`, a lazy-loading MCP proxy that cuts agent context bloat
   - Shipping `claude-handoff`, a Claude Code plugin for cross-session memory
   - Shipping `kube-guard`, Kubernetes guardrails for AI coding agents
